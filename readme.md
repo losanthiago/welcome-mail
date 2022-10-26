@@ -1,5 +1,7 @@
 # WELCOME MAIL
 
+<img src="exemple.png" alt="exemple">
+
 Welcome email when registering in an application, developed in HTML.
 
 PT-BR
